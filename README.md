@@ -1,4 +1,5 @@
-# Cancer Alley, Louisiana Industrial Emissions & Public Health
+# What is the impact of industrial emissions on public health in Cancer Alley, Louisiana, and how are these emissions quantified?
+Lizbet Ortiz, Juan Rios, Tianqi Zhao
 
 ## Project Summary
 
